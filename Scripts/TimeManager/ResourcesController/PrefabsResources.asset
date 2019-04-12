@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5739e11cae66cbb45866e0d14268ddca, type: 3}
+  m_Name: PrefabsResources
+  m_EditorClassIdentifier: 
+  ProductProvider: {fileID: 1380696760967816, guid: 70d0ba241979cf845b304417180c2791,
+    type: 2}
+  ProductionFieldUnit: {fileID: 1159581679657730, guid: d94e811db6ef1f649b2eb54f80513c69,
+    type: 2}
+  ProductionUnit: {fileID: 1677609710110910, guid: 189e43ea0e0e7334ca490e66c4b17286,
+    type: 2}
+  Customer: {fileID: 1610729271544896, guid: 7427c6f628f173844a94e61effef4da9, type: 2}
+  GoalItemView: {fileID: 1309134898173556, guid: e7f27e5556ded4a48937765cd597c9df,
+    type: 2}
+  TimerRestrictionView: {fileID: 1830190740595780, guid: 3aeba09390561dc47b226bfd8a2d61e4,
+    type: 2}
+  CustomersRestrictionView: {fileID: 1176266795512944, guid: 55af8d9dff642ac43900550955933827,
+    type: 2}
+  CoinsView: {fileID: 1069739492417324, guid: 1b2a2630878fb414cbb92dbaf4654bcb, type: 2}
